@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 
-export const InputContainerStyled = styled.div`
+export const InputContainerStyled = styled.form`
 position: relative;
 
 &::after {
