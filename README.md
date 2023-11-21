@@ -51,6 +51,7 @@ Testes ainda nao implementados
 
 <div align="center"> 
 <img src="public/assets/imgs/pc.png" width="200" />
+<img src="public/assets/imgs/mobile.png" width="200" />
 </div>
 
 ⌨️ com ❤️ por [Leonardo Lima](https://github.com/leonardobl) 😊
