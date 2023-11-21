@@ -51,7 +51,7 @@ Testes ainda nao implementados
 
 <div align="center"> 
 <img src="public/assets/imgs/pc.png" height="300" /> 
-<span width="40"></span>
+<!-- <span width="40"></span> -->
 <img src="public/assets/imgs/mobile.png" height="300" />
 </div>
 
