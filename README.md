@@ -49,4 +49,6 @@ Testes ainda nao implementados
 
 ## 🎁 Prints do projeto
 
+![Descktop]("public/assets/imgs/pc.png")
+
 ⌨️ com ❤️ por [Leonardo Lima](https://github.com/leonardobl) 😊
