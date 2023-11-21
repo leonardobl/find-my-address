@@ -50,7 +50,7 @@ Testes ainda nao implementados
 ## 🎁 Prints do projeto
 
 <div align="center"> 
-<img src="public/assets/imgs/pc.png" height="300" />
+<img src="public/assets/imgs/pc.png" height="300" /> | 
 <img src="public/assets/imgs/mobile.png" height="300" />
 </div>
 
