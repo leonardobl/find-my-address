@@ -50,8 +50,8 @@ Testes ainda nao implementados
 ## 🎁 Prints do projeto
 
 <div align="center"> 
-<img src="public/assets/imgs/pc.png" width="200" />
-<img src="public/assets/imgs/mobile.png" width="200" />
+<img src="public/assets/imgs/pc.png" height="300" />
+<img src="public/assets/imgs/mobile.png" height="300" />
 </div>
 
 ⌨️ com ❤️ por [Leonardo Lima](https://github.com/leonardobl) 😊
